@@ -1,2 +1,2 @@
 # AdventOfCode
-Solving AdventOfCode in CPP
+Solution to AdventOfCode 2018
